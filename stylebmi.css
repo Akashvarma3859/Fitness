@@ -1,0 +1,71 @@
+.text-secondary{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(food.jpg);
+    text-decoration-color: black;
+    text-shadow: 2px 2px 5px red;
+    color: black;
+}
+
+.image{
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(food.jpg);
+    background-color: blanchedalmond;
+}
+.wrapper{
+    font-family:'Times New Roman', Times, serif;
+  
+    
+  
+   
+}
+
+.edit{
+   font-size: 20px;
+    background-color:rgb(253, 4, 4);
+    border-radius: 10px;
+    
+}
+.color{
+    font-size: 20px;
+    background-color:rgb(253, 4, 4);
+    border-radius: 10px;
+    
+     
+}
+.font{
+    font-size: 20px;
+    background-color:rgb(253, 4, 4);
+    border-radius: 10px;
+      
+}   
+.table{
+    border: 5px solid black;
+    padding-right: 1px;
+}
+
+.risk{
+    font-size: 20px;
+    background-color:rgb(253, 4, 4);
+    border-radius: 10px;
+      
+}
+.line{
+    white-space:5px;
+}
+
+.space{
+    white-space:5px;
+}
+
+.white{
+    white-space:5px;
+}
+
+.class{
+    white-space:9px;
+}
+.box{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(image/bmiback1.jpg);
+    text-decoration-color: black;
+}
